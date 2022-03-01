@@ -8,4 +8,3 @@
   Funcitions in Python: https://www.youtube.com/watch?v=BVfCWuca9nw&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=37
   Types of arguments in Python: https://www.youtube.com/watch?v=eci9iU_s6Ag&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=39
   Gits in Pycharm: https://www.youtube.com/watch?v=UBLONzkmReE&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=79
-<iframe width="700" height="394" src="https://www.youtube.com/embed/UsCQXe1OHZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
